@@ -69,7 +69,7 @@ Bu proje, çeşitli algoritmaların çalışma mantığını interaktif bir şek
 
 1. Projeyi klonlayın:
 \`\`\`bash
-git clone https://github.com/yourusername/algorithm-visual.git
+git clone https://github.com/ugurer/algorithm-visual.git
 \`\`\`
 
 2. Proje dizinine gidin:
